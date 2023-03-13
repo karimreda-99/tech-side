@@ -1,35 +1,35 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "Karim Reda",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    role: "Penetration Tester",
+    bio: "Penetration tester with about 4 years experience in various domains such as web apps penetration testing, mobile apps penetration testing and network & infrastructure penetration testing",
+    email: "karim.reda476@gmail.com",
+    linkedin: "karim-reda-326396150",
+    github: "karimreda-99",
+    instagram: "karimreda001",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `tech-side`,
+      href: ",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
-    theme: "light", // ['light', 'dark', 'auto']
+    title: "tech-side",
+    description: "welcome to tech-side!",
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "https://tech-side.vercel.app",
+  since: , // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Blog", "Website", "Notion"],
+    keywords: ["Blog", "Website", "Notion", "Hacking", "Penetration testing", "Cybersecurity", "Red Team", "Blue Team", "Web", "Security", "Cyber crime"],
   },
 
   // notion configuration (required)
@@ -39,13 +39,13 @@ const CONFIG = {
 
   // plugin configuration (optional)
   googleAnalytics: {
-    enable: false,
+    enable: true,
     config: {
       measurementId: process.env.GOOGLE_MEASUREMENT_ID || "",
     },
   },
   googleSearchConsole: {
-    enable: false,
+    enable: true,
     config: {
       siteVerification: process.env.GOOGLE_SITE_VERIFICATION || "",
     },
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "karimreda-99/tech-side",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
