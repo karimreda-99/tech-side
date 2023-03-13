@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Karim Reda",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Penetration Tester",
     bio: "Penetration tester with about 4 years experience in various domains such as web apps penetration testing, mobile apps penetration testing and network & infrastructure penetration testing",
     email: "karim.reda476@gmail.com",
