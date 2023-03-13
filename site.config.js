@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `tech-side`,
-      href: ",
+      href: "",
     },
   ],
   // blog setting (required)
