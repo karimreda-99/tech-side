@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Karim Reda",
     image: "/avatar.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Penetration Tester",
-    bio: "Penetration tester with about 4 years experience in various domains such as web apps penetration testing, mobile apps penetration testing and network & infrastructure penetration testing",
+    bio: "Penetration tester with about 3 years experience in various domains such as web apps penetration testing, mobile apps penetration testing and network & infrastructure penetration testing",
     email: "karim.reda476@gmail.com",
     linkedin: "karim-reda-326396150",
     github: "karimreda-99",
